@@ -1,5 +1,5 @@
 import { HashRouter, Routes, Route, Navigate } from "react-router-dom"
-import Coins from './Coins.jsx';
+import Coins from './coins.jsx';
 import Coin from './Coin.jsx';
 
 function App() {
